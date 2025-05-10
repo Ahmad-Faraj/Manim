@@ -1,2 +1,2 @@
 # Manim
-my manim code for simulation.
+my manim code for animation.
